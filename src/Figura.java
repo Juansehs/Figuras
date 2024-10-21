@@ -1,4 +1,11 @@
-package PACKAGE_NAME;
+abstract class Figura {
 
-public class Figura {
+    public abstract void calculararea();
+
+    public abstract void calcularperimetro();
 }
+
+
+
+
+
