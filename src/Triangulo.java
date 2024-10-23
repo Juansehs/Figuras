@@ -33,7 +33,7 @@ public class Triangulo extends  Figura {
         this.altura = altura;
     }
 
-    public double getLado1() {
+    public double getLado1(double v) {
         return lado1;
     }
 
